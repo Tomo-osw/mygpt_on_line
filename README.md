@@ -1,6 +1,6 @@
 # mygpt_on_line
-コピー&ペーストと少しの設定だけで使える自分だけのchatgptをlineで動かすことができます
-Run your own chatgpt on line that you can use with just copy and paste and a few settings.
+- コピー&ペーストと少しの設定だけで使える自分だけのchatgptをlineで動かすことができます
+- Run your own chatgpt on line that you can use with just copy and paste and a few settings.
 
 1. Line Developer に自身のアカウントで登録し、新しくチャネルを作成する
 2. Google Apps Scriptで新規ファイルを作成する
