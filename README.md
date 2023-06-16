@@ -9,14 +9,12 @@ Run your own chatgpt on line that you can use with just copy and paste and a few
 5. GAS内でスクリプトプロパティを新規設定する
 6. GASでデプロイし、LINE Developer内のWebhookにコピペする
 
-
-
-1. register with Line Developer with your own account and create a new channel
-2. Create a new file with Google Apps Script
-3. copy and paste main.js and initialize-set.js into GAS or create a new file. 4.
-4. get GPT_APIKEY and LINEAPI_APIKEY respectively, and copy and paste them into the corresponding parts of GAS. 5.
-5. set new script properties in GAS
-6. Deploy the script in GAS and copy and paste it into the Webhook in LINE Developer.
+- register with Line Developer with your own account and create a new channel
+- Create a new file with Google Apps Script
+- copy and paste main.js and initialize-set.js into GAS or create a new file. 4.
+- get GPT_APIKEY and LINEAPI_APIKEY respectively, and copy and paste them into the corresponding parts of GAS. 5.
+- set new script properties in GAS
+- Deploy the script in GAS and copy and paste it into the Webhook in LINE Developer.
 
 使い方：
 ・基本的には書き込んだら会話ができ、3往復まで履歴が残っている状態となっている
