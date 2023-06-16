@@ -17,11 +17,11 @@ Run your own chatgpt on line that you can use with just copy and paste and a few
 - Deploy the script in GAS and copy and paste it into the Webhook in LINE Developer.
 
 使い方：
-・基本的には書き込んだら会話ができ、3往復まで履歴が残っている状態となっている
-・「ニューロール」と書き込んだ場合、その後の入力内容はどういったロールプレイを行ってほしいかを記入する
-※それ以降再度ニューロールと入力するまで、そのロールプレイが行われる
+- 基本的には書き込んだら会話ができ、3往復まで履歴が残っている状態となっている
+- 「ニューロール」と書き込んだ場合、その後の入力内容はどういったロールプレイを行ってほしいかを記入する
+- ※それ以降再度ニューロールと入力するまで、そのロールプレイが行われる
 
 How to use:
-・Basically, you can have a conversation after writing a message, and up to 3 round-trips are kept in the history.
-・If you write "New Role", you will be able to enter what kind of role-play you would like to see.
-※After that, the role-play will continue until you enter "new role" again.
+- Basically, you can have a conversation after writing a message, and up to 3 round-trips are kept in the history.
+- If you write "New Role", you will be able to enter what kind of role-play you would like to see.
+- ※After that, the role-play will continue until you enter "new role" again.
