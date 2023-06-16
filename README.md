@@ -9,6 +9,8 @@ Run your own chatgpt on line that you can use with just copy and paste and a few
 5. GAS内でスクリプトプロパティを新規設定する
 6. GASでデプロイし、LINE Developer内のWebhookにコピペする
 
+
+
 1. register with Line Developer with your own account and create a new channel
 2. Create a new file with Google Apps Script
 3. copy and paste main.js and initialize-set.js into GAS or create a new file. 4.
